@@ -8,6 +8,7 @@
 ## Golang Internals
 
     [Part 1: Main Concepts and Project Structure](https://blog.altoros.com/golang-part-1-main-concepts-and-project-structure.html)
+
     [Part 2: Diving Into the Go Compiler](https://blog.altoros.com/golang-internals-part-2-diving-into-the-go-compiler.html)
     [Part 3: The Linker, Object Files, and Relocations](https://blog.altoros.com/golang-internals-part-3-the-linker-and-object-files.html)
     [Part 4: Object Files and Function Metadata](https://blog.altoros.com/golang-part-4-object-files-and-function-metadata.html)
