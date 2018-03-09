@@ -7,6 +7,8 @@
 
 ## Golang Internals
 
+     [link to Google!](http://google.com)
+     
     [Part 1: Main Concepts and Project Structure](https://blog.altoros.com/golang-part-1-main-concepts-and-project-structure.html)
 
     [Part 2: Diving Into the Go Compiler](https://blog.altoros.com/golang-internals-part-2-diving-into-the-go-compiler.html)
