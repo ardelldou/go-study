@@ -5,8 +5,9 @@ Go 语言的演化历程
     http://blog.jobbole.com/79119/
 
 
-Golang Internals, Part 1: Main Concepts and Project Structure
-    https://blog.altoros.com/golang-part-1-main-concepts-and-project-structure.html
+Golang Internals
+    [Part 1: Main Concepts and Project Structure](https://blog.altoros.com/golang-part-1-main-concepts-and-project-structure.html)
+    
 
 Golang Internals, Part 2: Diving Into the Go Compiler
     https://blog.altoros.com/golang-internals-part-2-diving-into-the-go-compiler.html
